@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nikhil Pal
+#                    Nikhil Pal
 
 ### Backend Developer | Golang | Cloud & Database Technologies
 
@@ -19,20 +19,20 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a backend developer interested in building efficient, maintainable, and scalable backend applications.
 
-* 🐹 Developing backend services using **Golang**.
-* 🗄️ Working with **MySQL** for relational database management.
-* 🐳 Using **Docker** for application containerization.
-* ☁️ Exploring **AWS** for cloud infrastructure and deployment.
-* 🔌 Interested in REST APIs, backend architecture, and database optimization.
-* 🌱 Continuously learning about backend engineering and scalable systems.
+*  Developing backend services using **Golang**.
+*  Working with **MySQL** for relational database management.
+*  Using **Docker** for application containerization.
+*  Exploring **AWS** for cloud infrastructure and deployment.
+*  Interested in REST APIs, backend architecture, and database optimization.
+*  Continuously learning about backend engineering and scalable systems.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages & Backend
 
@@ -67,7 +67,7 @@ I'm a backend developer interested in building efficient, maintainable, and scal
 
 ---
 
-## 🚀 Engineering Projects
+##  Engineering Projects
 
 ### 🔹 Backend API Development
 
@@ -89,7 +89,7 @@ Exploring AWS deployment and infrastructure options for running backend applicat
 
 ---
 
-## 🧠 Engineering Interests
+## Engineering Interests
 
 * Backend Architecture
 * RESTful API Design
@@ -100,7 +100,7 @@ Exploring AWS deployment and infrastructure options for running backend applicat
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Exploring AWS deployment and infrastructure options for running backend applicat
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Exploring AWS deployment and infrastructure options for running backend applicat
 
 <div align="center">
 
-### 💻 Build • Learn • Improve • Deploy
+###  Build • Learn • Improve • Deploy
 
 *Focused on writing better code and building better systems.*
 
