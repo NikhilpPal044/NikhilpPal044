@@ -63,7 +63,7 @@ Organizing application logic and managing application data.
 Focused on maintainable code and reliable backend operations.
 
 Tech Stack: Golang • MySQL • Docker
-### 🔹URL Shortener
+### URL Shortener
 
 Backend Development | URL Management Service
 
