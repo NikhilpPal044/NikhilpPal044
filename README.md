@@ -35,31 +35,16 @@ I'm a backend developer interested in building efficient, maintainable, and scal
 ##  Technical Skills
 
 ### Languages & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go" height="45" alt="Go"/>
-</p>
-
 * Golang
 * REST API Development
 * Backend Service Development
 
 ### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
-</p>
-
 * MySQL
 * Relational Database Design
 * SQL Queries
 
 ### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" height="45" alt="Docker, AWS, Linux, Git and GitHub"/>
-</p>
-
 * Docker
 * Amazon Web Services (AWS)
 * Git & GitHub
@@ -69,25 +54,33 @@ I'm a backend developer interested in building efficient, maintainable, and scal
 
 ##  Engineering Projects
 
-### 🔹 Backend API Development
+### MINIMART
 
-Designing backend services and REST APIs with Golang, focusing on clean code, maintainability, and reliable request handling.
+Backend Development | E-commerce System
 
-### 🔹 Database-Driven Applications
+Developing backend functionality for a minimart application.
+Organizing application logic and managing application data.
+Focused on maintainable code and reliable backend operations.
 
-Building applications that use MySQL for structured data storage, relational queries, and data management.
+Tech Stack: Golang • MySQL • Docker
+### 🔹URL Shortener
 
-### 🔹 Containerized Applications
+Backend Development | URL Management Service
 
-Using Docker to package applications and create consistent development and deployment environments.
+Building a service to convert long URLs into short, shareable links.
+Implementing URL creation and redirection functionality.
+Exploring efficient database storage and URL lookup strategies.
 
-### 🔹 Cloud-Ready Backend Services
+Tech Stack: Golang • MySQL 
+### Email Dispatcher
 
-Exploring AWS deployment and infrastructure options for running backend applications in the cloud.
+Backend Development | Email Delivery Service
 
-> Replace these descriptions with links to your actual projects as you publish them.
+Building a backend service to manage email dispatching.
+Organizing email delivery workflows and request processing.
+Focused on reliable processing and maintainable service architecture.
 
----
+Tech Stack: Golang • Docker • AWS
 
 ## Engineering Interests
 
